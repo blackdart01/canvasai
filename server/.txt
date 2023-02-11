@@ -1,0 +1,2 @@
+## commit 1 consist of first commit that has proper frontend and backend involved.
+### it contains a home page and a create page.
